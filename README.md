@@ -1,5 +1,25 @@
-# react-hooks-redux-registration-login-example
+# Instuction to run the project
 
-React Hooks + Redux - User Registration and Login Tutorial & Example
+Clone the Code
+npm install
+npm start
 
-For documentation and live demo see https://jasonwatmore.com/post/2020/03/02/react-hooks-redux-user-registration-and-login-tutorial-example
+=======================
+
+Functinality
+
+====================
+Register User
+Login User
+Logout User
+List Of register user
+====================
+
+Technology Used
+
+=====================
+React
+Redux
+react-rouder-dome
+bootstrap
+=====================

@@ -1,11 +1,6 @@
 {
-    "name": "react-hooks-redux-registration-login-example",
+    "name": "react-hooks-redux-registration-login-app",
     "version": "1.0.0",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/cornflourblue/react-hooks-redux-registration-login-example.git"
-    },
-    "license": "MIT",
     "scripts": {
         "build": "webpack --mode production",
         "start": "webpack-dev-server --open"
@@ -15,7 +10,7 @@
         "react": "^16.13.0",
         "react-dom": "^16.13.0",
         "react-redux": "^7.2.0",
-        "react-router-dom": "^5.1.2",
+        "react-router-dom": "^5.3.3",
         "redux": "^4.0.5",
         "redux-logger": "^4.0.0",
         "redux-thunk": "^2.3.0"
